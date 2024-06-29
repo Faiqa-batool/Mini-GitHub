@@ -9,3 +9,5 @@ Connect with MongoDB Compass </br>
 If you have installed nodemon globally then: </br>
 npx nodemon ./index.js
 </br>
+In Browser: 
+</br>
