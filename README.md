@@ -1,5 +1,5 @@
 # Mini-GitHub
-Full Stack project for Internet Application Development course
+Full Stack project for the course Internet Application Development.
 
 Run this code : </br>
 npm i </br>
