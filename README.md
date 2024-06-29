@@ -1,7 +1,7 @@
 # Mini-GitHub
 Full Stack project for the course Internet Application Development.
 
-<u>Run this code</u> : </br>
+Run this code : </br>
 npm i </br>
 npm i express mongoose </br>
 Connect with MongoDB Compass </br>
