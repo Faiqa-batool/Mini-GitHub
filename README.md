@@ -1,7 +1,7 @@
 # Mini-GitHub
 Full Stack project for the course Internet Application Development.
 
-#### Run this code : 
+### Run this code : 
 
 npm i </br>
 npm i express mongoose </br>
